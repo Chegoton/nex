@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "nexo",
+    "slug": "nexo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "efb100dd-928f-4b2a-9a2a-1cafbb2508fd"
+      }
+    }
+  }
+}
